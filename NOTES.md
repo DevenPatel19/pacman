@@ -3,7 +3,7 @@
 WITH FEATURES OF:
     *MAP BOUNDARIES
     *ADD PACMAN WITH MOVEMENT
-    ADD COLLISION DETECTION
+    *ADD COLLISION DETECTION
     SWAP BOUNDARIES WITH IMAGES
     GENERATE PELLETS
     REMOVE PELLETS ON COLLISION
@@ -34,3 +34,4 @@ WITH FEATURES OF:
     constructors
     canvas: arc methods
     referencing location dynamically is key to relational movement
+    initial usage of spread operator- used to edit velocity property in collision detection-animate
